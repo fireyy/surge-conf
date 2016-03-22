@@ -1,8 +1,10 @@
 ## Surge Conf
 
-> Surge Config builder for EurekaVPT SSLedge Pro
+> Surge config generator for EurekaVPT SSLedge Pro User
 
 ## Start
+
+Make sure you have [EurekaVPT](https://eurekavpt.com) SSLedge + Cisco VPN (Pro) Service.
 
 ```shell
 cp config-sample.js config.js

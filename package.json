@@ -1,7 +1,7 @@
 {
   "name": "surge-conf",
   "version": "1.0.0",
-  "description": "Surge Config builder for EurekaVPT SSLedge Pro",
+  "description": "Surge config generator for EurekaVPT SSLedge Pro User",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
